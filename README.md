@@ -5,4 +5,4 @@ Hey fellow Makers, not sure what we could do in here! But it´s always good to m
 
 ====
 
-https://gitter.im/March2014MakersAcademy This is where we can chat!!! iOS and OSX apps coming soon!
+https://gitter.im/March2014MakersAcademy This is where we can chat!!! iOS app coming soon!
